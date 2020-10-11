@@ -19,8 +19,6 @@ def main():
     add_numbers(3, 3)
     add_numbers(4, 4)
     add_numbers(5, 5)
-    print('lol1')
-    print('xd')
     return 0
 
 

@@ -7,13 +7,11 @@ def hello(what):
 
 
 def say_what():
-    return 'world'
+    return 'worl'
 
 
 def main():
     hello(say_what())
-    print('lol')
-    print('xd')
     return 0
 
 
